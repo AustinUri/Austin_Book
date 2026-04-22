@@ -153,7 +153,68 @@ export const storyChunks = [
   ]
 ];
 
-export const photoPages = [];
+export const photoPages = [
+  {
+    "src": "/images/1.jpeg",
+    "caption": "1"
+  },
+  {
+    "src": "/images/11.jpeg",
+    "caption": "11"
+  },
+  {
+    "src": "/images/12.jpeg",
+    "caption": "12"
+  },
+  {
+    "src": "/images/13.jpeg",
+    "caption": "13"
+  },
+  {
+    "src": "/images/14.jpeg",
+    "caption": "14"
+  },
+  {
+    "src": "/images/15.jpeg",
+    "caption": "15"
+  },
+  {
+    "src": "/images/16.jpeg",
+    "caption": "16"
+  },
+  {
+    "src": "/images/17.jpeg",
+    "caption": "17"
+  },
+  {
+    "src": "/images/4.jpeg",
+    "caption": "4"
+  },
+  {
+    "src": "/images/6.jpeg",
+    "caption": "6"
+  },
+  {
+    "src": "/images/8.jpeg",
+    "caption": "8"
+  },
+  {
+    "src": "/images/whatsapp-ima3.jpeg",
+    "caption": "WhatsApp Ima3"
+  },
+  {
+    "src": "/images/whatsapp-image-2026-04-21-at-11-23-31.jpeg",
+    "caption": "WhatsApp Image 2026-04-21 at 11.23.31"
+  },
+  {
+    "src": "/images/whatsapp-image-2026-04-21-at-11-26-00.jpeg",
+    "caption": "WhatsApp Image 2026-04-21 at 11.26.00"
+  },
+  {
+    "src": "/images/whatsapp-image-2026-04-50.jpeg",
+    "caption": "WhatsApp Image 2026-04-50"
+  }
+];
 
 export const sourceFiles = {
   text: '/source-book.txt',
