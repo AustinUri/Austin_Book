@@ -51,3 +51,7 @@ temp/
 
 # PDF / export artifacts (optional — remove if you want generated PDFs tracked)
 exports/
+
+# Images (optional — remove if you want to track image files)
+.jpg
+.png
